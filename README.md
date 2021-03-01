@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there!<img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px">
+I am a 16 year old student. I like working on Android based roms and kernels in my free time.
 
-<!--
-**AtomicXZ/AtomicXZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/AtomicXZ/count.svg" alt="vistor count" height="30" /></td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+#### Stats!
+![](https://github-readme-stats.vercel.app/api?username=AtomicXZ&show_icons=true&theme=dark&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I am currently learning C 🤔
+- I am looking for help with the Linux Kernel 😃
+- Reach me on Telegram at <a href=https://t.me/disloyalinnocentvelvetworm>AtomicX</a>
