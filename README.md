@@ -13,4 +13,4 @@ I am a 16 year old student. I like working on Android based roms and kernels in 
 
 - I am currently learning C 🤔
 - I am looking for help with the Linux Kernel 😃
-- Reach me on Telegram at <a href=https://t.me/disloyalinnocentvelvetworm>AtomicX</a>
+- Reach me on Telegram at <a href=https://t.me/AtomicXZ>AtomicX</a>
