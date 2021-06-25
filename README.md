@@ -11,6 +11,4 @@ I am a 16 year old student. I like working on Android based roms and kernels in 
 #### Stats!
 ![](https://github-readme-stats.vercel.app/api?username=AtomicXZ&show_icons=true&theme=dark&count_private=true)
 
-- I am currently learning C 🤔
-- I am looking for help with the Linux Kernel 😃
-- Reach me on Telegram at <a href=https://t.me/AtomicXZ>AtomicX</a>
+- Reach me on Telegram at <a href=https://t.me/YuanziX>AtomicX</a>
